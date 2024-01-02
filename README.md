@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anj1525
+- 👀 I’m interested in diversifying my computer science knowledge by teaching myself more languages
+- 🌱 I’m currently learning at York Univerity
+- 💞️ I’m looking to collaborate on more HTML and CSS projects
+- 📫 If you would like to connect email me at anjanisharm@outlook.com
